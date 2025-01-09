@@ -1,1 +1,1 @@
-print("noncomittal statement world")
+print("dobryy deyn world")
